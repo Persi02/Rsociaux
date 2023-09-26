@@ -1,0 +1,22 @@
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    @apply rounded-sm;
+    padding: 3px;
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+}
+
+.btn--blue {
+    background-color: rgb(22, 104, 210);
+}
+
+.btn--green {
+    background-color: rgb(22, 210, 38);
+}
+
+.btn--sm {
+    @apply py-2 font-normal;
+}

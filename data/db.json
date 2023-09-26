@@ -1,0 +1,41 @@
+{
+  "utilisateurs": [
+    {
+      "nomUtilisateur": "egegege",
+      "mailUtilisateur": "rakoto@yahoo.fr",
+      "motDePass": "llllll",
+      "motDePassConfirmation": "llllll",
+      "id": 1
+    },
+    {
+      "nomUtilisateur": "njaka",
+      "mailUtilisateur": "andriamananandro@gmail.com",
+      "motDePass": "pppppp",
+      "motDePassConfirmation": "pppppp",
+      "id": 2
+    },
+    {
+      "nomUtilisateur": "lanja",
+      "mailUtilisateur": "lanja@gmail.com",
+      "motDePass": "mmmmmm",
+      "motDePassConfirmation": "mmmmmm",
+      "id": 3
+    },
+    {
+      "nomUtilisateur": "lanjahgh",
+      "mailUtilisateur": "lanja@gmail.fr",
+      "motDePass": "llllll",
+      "motDePassConfirmation": "llllll",
+      "id": 4
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "titre": "titre",
+      "contenu": "contenu",
+      "date": "2023-01-01",
+      "utilisateur": 1
+    }
+  ]
+}

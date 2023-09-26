@@ -1,0 +1,26 @@
+.wrap {
+    @apply flex items-center justify-center h-screen;
+    background: #f5f5f5
+}
+
+.card-inscription {
+    @apply flex px-2 py-6 bg-white gap-3 rounded-md;
+    flex-direction: column;
+    width: 400px;
+
+}
+
+h1 {
+    color: rgb(22, 104, 210)
+}
+
+
+
+.card_forme {
+    @apply flex w-full gap-3 items-end;
+    flex-direction: column;
+}
+
+.card_btn {
+    @apply flex gap-2;
+}
